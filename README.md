@@ -1,2 +1,3 @@
 # Chat-tekstowy
-Zaczynam robić chat tekstowy z jak najmniejszym użyciem serwerów potrzebnych do działania. Na razie najlepiej wypada interface, czat wymaga poprawek. 
+
+Link do pobrania: https://drive.google.com/file/d/1N4TmhFI7H8VxdVVKHoUD43NC0aRaUPHK/view?usp=sharing
