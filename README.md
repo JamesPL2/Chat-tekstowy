@@ -1,3 +1,3 @@
 # Chat-tekstowy
 
-Link do pobrania: https://drive.google.com/file/d/1AAJEywbgZXk6JLrcT5yw5TZ0CpevQ5nM/view?usp=sharing
+Link do pobrania: https://drive.google.com/file/d/1-Ii8pwUzYEhjS94n4YIov-lTUIi7bO5g/view?usp=drive_link
